@@ -1,4 +1,6 @@
 # emails-gmail-manager
-When Gmail is out of storage, own self MTA MUA MDA are alternatives
+When Gmail is out of storage, own self MTA(Sendmail) MUA(Mutt) MDA(Procmail) are alternatives
 
 Workload mainly in GCP VM(Terraform)
+
+Towards yahoo for old emails
