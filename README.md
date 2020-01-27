@@ -10,3 +10,5 @@ Search request : in:inbox -label:read -label:important -label:starred category:{
 https://stackoverflow.com/questions/38592485/get-number-of-unread-messages-via-gmail-api
 
 Perhaps with no web server Tomcat, but app server like Glassfish
+
+Google Gmail to database
